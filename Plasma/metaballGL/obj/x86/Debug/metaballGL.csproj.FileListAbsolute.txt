@@ -1,0 +1,5 @@
+d:\test\metaballGL\obj\x86\Debug\metaballGL.csprojAssemblyReference.cache
+d:\test\metaballGL\obj\x86\Debug\metaballGL.Properties.Resources.resources
+d:\test\metaballGL\obj\x86\Debug\metaballGL.SharpGLForm.resources
+d:\test\metaballGL\obj\x86\Debug\metaballGL.csproj.GenerateResource.cache
+d:\test\metaballGL\obj\x86\Debug\metaballGL.csproj.CoreCompileInputs.cache
